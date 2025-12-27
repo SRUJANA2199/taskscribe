@@ -1,4 +1,4 @@
-# Note Down
+# Taskscribe
 
 Note Down is fully functional and robust notes taking app which allows user to store and access all notes and important information digitally, usually in a cloud based database storage system. React is used for fronted design,The authentication is powered by JWT and local storage is being implemented so that the user won't have login again and again and the Node.js and Express.js backend use MongoDB as database to save, delete and update the notes.
 
