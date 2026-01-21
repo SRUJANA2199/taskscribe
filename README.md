@@ -17,7 +17,7 @@ Note Down is fully functional and robust notes taking app which allows user to s
 
 - Open your terminal and run the command
 ```
- $ git clone https://github.com/abhi1506manu/Notes-App.git
+ $ git clone ...
  $cd Notes-App
 ```
 - To install dependencies for backend
